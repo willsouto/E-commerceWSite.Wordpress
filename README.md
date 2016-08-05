@@ -1,6 +1,9 @@
 # E-commerce Site -> Showcase
 
 Site feito com Wordpress utilizando os plugins 'Black Studio TinyMCE Widget' e 'WooCommerce', tema 'Mystile'.
+
+Projeto acadêmico.
+
 <br/><br/>
 
 ><h1>Index</h1><br/>
